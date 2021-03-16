@@ -2,7 +2,7 @@
 
 class Permissao
 {
-  protected $nivel;
+  private $nivel;
 
   protected function setNivel($nivel)
   {
@@ -11,6 +11,7 @@ class Permissao
 
   public function getNivel()
   {
+    echo $this->nivel;
     return $this->nivel;
   }
 
