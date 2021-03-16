@@ -1,0 +1,13 @@
+{
+    "name": "vendor/composer",
+    "description": "composer",
+    "authors": [
+        {
+            "name": "Bruno Wesley",
+            "email": "bruno.wesley77@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["App"]
+    }
+}
