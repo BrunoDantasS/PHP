@@ -1,6 +1,6 @@
 > Objetivo
 
-Construir em código PHP o diagrama abaixo cumprindo as seguintes exigências: (Se desejar, pode encaminhar link para solução no GitHub, preferimos).
+Construir em código PHP o diagrama abaixo cumprindo as seguintes exigências:
 
 > Requisitos
 
