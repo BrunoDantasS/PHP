@@ -1,6 +1,6 @@
 > Objetivo
 
-Construir em código PHP o diagrama abaixo cumprindo as seguintes exigências:
+Construir uma aplicação em PHP para cadastrar usuários.
 
 > Requisitos
 
